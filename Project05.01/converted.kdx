@@ -1,0 +1,19 @@
+Layout {
+  FileType : "delimited"
+  Delimiter : "	"
+  CoalesceDelimiters : "1"
+  Latitude : "0"
+  Longitude : "1"
+  SkipRows : "1"
+  TextCodec : "ISO-8859-1"
+  FieldDefinitions {
+    0 {
+      Name : "35.56551"
+      Type : "double"
+    }
+    1 {
+      Name : "-83.52262"
+      Type : "double"
+    }
+  }
+}
