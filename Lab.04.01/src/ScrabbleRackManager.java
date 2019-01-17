@@ -93,7 +93,7 @@ public class ScrabbleRackManager {
 		}
 	}
 	/**
-	 * compares the two array lists of integers and returns false if the sorted base has more of a letter than the users rack(.)(.)
+	 * compares the two array lists of integers and returns false if the sorted base has more of a letter than the users rack
 	 * @return boolean
 	 */
 	private Boolean compare(){
@@ -105,7 +105,7 @@ public class ScrabbleRackManager {
 		return true;
 	}
 	/**
-	 * prints the users Rack(.)(.)
+	 * prints the users Rack
 	 */
 	public void printRack(){	
 		String track = "";
@@ -116,7 +116,7 @@ public class ScrabbleRackManager {
 		sort(track);
 	}
 	/**
-	 * prints the words that can be made with the shit in your rack(.)(.)
+	 * prints the words that can be made with the rack
 	 */
 	public void printMatches(){
 		int counter = 0;

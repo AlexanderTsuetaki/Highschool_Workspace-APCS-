@@ -1,5 +1,5 @@
 /**
- * This class is domb so i can learn about documenting
+ * This class is so i can learn about documenting
  * @author ATsuetaki
  * @version Wednesday 09/09/16
  */
